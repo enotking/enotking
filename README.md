@@ -9,12 +9,12 @@
 
 ---
 
-### 📊 Автооценка языков программирования:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enotking&langs_count=5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Оценка языков программирования:
+[![Статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=enotking&langs_count=5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🦝 Анимированный енотик:
+### 🦝 My енотик:
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRkiqXEWClOPCHvKGmnSHBMcIBCebf0N1dg&s" width="150">
 </p>
