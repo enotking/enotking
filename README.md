@@ -16,5 +16,5 @@
 
 ### 🦝 My CRASH:
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRkiqXEWClOPCHvKGmnSHBMcIBCebf0N1dg&s" width="150">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBucDE2cHBjdXRvYjB5b253b2lwYjQ1dTVyMjhzYW02a2FjcW52cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="150">
 </p>
