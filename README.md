@@ -14,7 +14,7 @@
 
 ---
 
-### 🦝 My енотик:
+### 🦝 My CRASH:
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRkiqXEWClOPCHvKGmnSHBMcIBCebf0N1dg&s" width="150">
 </p>
