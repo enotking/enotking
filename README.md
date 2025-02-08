@@ -14,7 +14,3 @@
 
 ---
 
-### 🦝 My CRASH:
-<p align="center">
- ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBucDE2cHBjdXRvYjB5b253b2lwYjQ1dTVyMjhzYW02a2FjcW52cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="150">
-</p>
