@@ -1,0 +1,18 @@
+<svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate attributeName="offset" values="0;1" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#00ffee">
+        <animate attributeName="offset" values="0.5;1.5" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8000ff">
+        <animate attributeName="offset" values="1;2" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" font-size="50" font-weight="bold" fill="url(#gradient)" text-anchor="middle" dominant-baseline="middle">
+    Привет, я @enotking!
+  </text>
+</svg>
