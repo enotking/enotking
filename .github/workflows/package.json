@@ -1,0 +1,11 @@
+{
+  "name": "readme-auto-update",
+  "version": "1.0.0",
+  "description": "Автообновление README с рейтингами языков и анимированной змейкой",
+  "main": "update-readme.js",
+  "type": "module",
+  "scripts": {
+    "update": "node update-readme.js"
+  },
+  "dependencies": {}
+}
